@@ -1,3 +1,3 @@
-# workout_demo_app
+# Workout Demo App
 
-A new Flutter project.
+A new workout demo app 
